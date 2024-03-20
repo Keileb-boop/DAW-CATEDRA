@@ -41,3 +41,10 @@ h2{
 .cajadetexto{
     text-align: center;
 }
+
+.boton1{
+    width: 70px;
+    height: 20px;
+    border-radius: 5px;
+    margin-bottom: 5%;
+}
