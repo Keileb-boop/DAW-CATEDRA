@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+
+.cajadelogeo {
+    width: 300px;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 15px 30px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+.login-box h2 {
+    color: #fff;
+}
+
+input{
+    border-radius: 5px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+.boton, form{
+    text-align: center;
+}
+
+.cajadetexto{
+    text-align: center;
+}
